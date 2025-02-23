@@ -10,7 +10,7 @@ This repository contains Jupyter notebooks demonstrating essential NLP tasks usi
 - **Question Answering** – Extract answers from given text passages.  
 
 ## 📂 Notebooks  
-Each notebook is self-contained, easy to follow, and demonstrates how to load models, preprocess data, and make predictions.  
+Each notebook is self-contained, easy to follow, and demonstrates how to **load models, preprocess data, fine-tune models, and make predictions**.  
 
 ## 🚀 Usage
 
