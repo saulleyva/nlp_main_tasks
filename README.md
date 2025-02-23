@@ -16,7 +16,7 @@ Each notebook is self-contained, easy to follow, and demonstrates how to load mo
 
 Clone the repository and open any notebook in Jupyter:
 ```
-git clone https://github.com/yourusername/nlp-tasks.git  
+git clone https://github.com/saulleyva/nlp_main_tasks.git
 cd nlp-tasks  
 jupyter notebook
 ```
